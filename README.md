@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheRobloxStudioCat
+- 👀 I’m interested in Roblox Studio
+- 🌱 I’m currently learning Lua
+- ;) scratch is my beloved programing language
