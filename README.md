@@ -15,4 +15,4 @@ And here's my stats:
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=TheRobloxStudioCat)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/rojo-rbx/rojo/actions"><img src="https://github.com/rojo-rbx/rojo/workflows/CI/badge.svg" alt="Actions status" /></a>
+<a href="https://scratch.mit.edu/users/Key_Matbei/"><img src="https://github.com/TheRobloxStudioCat/TheRobloxStudioCat/edit/main/badge.svg" alt="Actions status" /></a>
