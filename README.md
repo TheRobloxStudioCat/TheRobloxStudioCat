@@ -1,14 +1,32 @@
 # About me
-Hi, I am [TheDreamingCat](https://www.roblox.com/users/4958844993/profile).
 
-I like:
 
-Scratch,
-Roblox, Lua
 
-<a href="https://scratch.mit.edu/users/Key_Matbei/"><img src="https://raw.githubusercontent.com/TheRobloxStudioCat/TheRobloxStudioCat/refs/heads/main/badge.svg" alt="Actions status" /></a>
+## As a person
 
-# Projects
-My current projects are:
-1. ScratchCode
-2. Codename:Bublik
+
+
+*Hello*! I am **The Dreaming Cat**. I make *silly* and **cool** projects on ***GitHub***! A true ***LÖVE* löver**, and a ***Lua* lover**! My **skills** range from: **PHP** *(very poorly)* to **Lua** *(pretty much mastered it)*.
+
+
+
+## Skills
+
+
+
+The languages i know are:
+
+1. **PHP** *(poorly)* 
+2. **Python** *(3x, kinda Novice)* 
+3. **Scratch** *(perfect.)* 
+4. **Lua** *(master at it)* 
+5. **ScratchCode** *(i made it myself, so im the greatest user, right?)*
+
+
+
+## Socials
+
+
+
+You can find me at **Scratch** *(Key\_Matbei)*, **YouTube** *(TheDreamingCatRBLX)*, **Roblox** *(Old\_123494)* and **Polytoria** *(TheDreamingCat)*
+
