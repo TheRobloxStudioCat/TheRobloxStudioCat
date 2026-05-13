@@ -32,7 +32,8 @@ You can find me at [**Scratch**](https://scratch.mit.edu/users/Key_Matbei/) *(Ke
 
 <details>
   <summary>Shh....Look here!</summary>
-  Tricked ya!
+  Look at the cooooolll badge i made:
+  <img src="https://img.shields.io/badge/idk-why-blue?style=plastic">
 </details>
 
 
