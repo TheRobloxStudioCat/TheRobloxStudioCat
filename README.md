@@ -28,5 +28,11 @@ The languages i know are:
 
 
 
-You can find me at **Scratch** *(Key\_Matbei)*, **YouTube** *(TheDreamingCatRBLX)*, **Roblox** *(Old\_123494)* and **Polytoria** *(TheDreamingCat)*
+You can find me at [**Scratch**](https://scratch.mit.edu/users/Key_Matbei/) *(Key\_Matbei)*, [**YouTube**](https://www.youtube.com/@TheDreamingCatRBLX) *(TheDreamingCatRBLX)*, [**Roblox**](https://www.roblox.com/users/4958844993/profile) *(Old\_123494)* and [**Polytoria**](https://polytoria.com/u/TheDreamingCat) *(TheDreamingCat)*
+
+<details>
+  <summary>Shh....Look here!</summary>
+  Tricked ya!
+</details>
+
 
