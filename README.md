@@ -20,7 +20,7 @@ The languages i know are:
 2. **Python** *(3x, kinda Novice)* 
 3. **Scratch** *(perfect.)* 
 4. **Lua** *(master at it)* 
-5. **ScratchCode** *(i made it myself, so im the greatest user, right?)*
+5. **DreamCode** *(i made it myself, so im the greatest user, right?)*
 
 
 
