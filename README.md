@@ -7,7 +7,7 @@
 
 
 *Hello*! I am **The Dreaming Cat**. I make *silly* and **cool** projects on ***GitHub***! A true ***LÖVE* löver**, and a ***Lua* lover**! My **skills** range from: **PHP** *(very poorly)* to **Lua** *(pretty much mastered it)*. *Also*, i **am**
-*related* to [**@DreamingStudio**](github.com/DreamingStudio), don't worry.
+*related* to [**@DreamingStudio**](https://github.com/DreamingStudio), don't worry.
 
 
 ## Skills
